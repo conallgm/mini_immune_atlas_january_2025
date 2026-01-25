@@ -1,0 +1,5 @@
+hub MiniImmuneAtlas
+shortLabel Mini Immune Atlas
+longLabel Mini Immune Atlas – chrX BigWig tracks
+genomesFile genomes.txt
+email conall.geogheganmoore.2018@mumail.ie
