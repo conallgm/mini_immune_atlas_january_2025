@@ -4,7 +4,7 @@
 
 track Bcell_CD5_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Bcell_CD5_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Bcell_CD5_bigwigs_bigwig_average.bw
 shortLabel Bcell_CD5_bigwigs_bigwig_average
 longLabel Bcell_CD5_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -13,7 +13,7 @@ maxHeightPixels 100:50:8
 
 track Bulk_B_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Bulk_B_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Bulk_B_T1_bigwigs_bigwig_average.bw
 shortLabel Bulk_B_T1_bigwigs_bigwig_average
 longLabel Bulk_B_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -22,7 +22,7 @@ maxHeightPixels 100:50:8
 
 track Bulk_B_Untreated_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Bulk_B_Untreated_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Bulk_B_Untreated_bigwigs_bigwig_average.bw
 shortLabel Bulk_B_Untreated_bigwigs_bigwig_average
 longLabel Bulk_B_Untreated_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -31,7 +31,7 @@ maxHeightPixels 100:50:8
 
 track CD4_TH17_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD4_TH17_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD4_TH17_bigwigs_bigwig_average.bw
 shortLabel CD4_TH17_bigwigs_bigwig_average
 longLabel CD4_TH17_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -40,7 +40,7 @@ maxHeightPixels 100:50:8
 
 track CD4_TH1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD4_TH1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD4_TH1_bigwigs_bigwig_average.bw
 shortLabel CD4_TH1_bigwigs_bigwig_average
 longLabel CD4_TH1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -49,7 +49,7 @@ maxHeightPixels 100:50:8
 
 track CD4_TH2_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD4_TH2_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD4_TH2_bigwigs_bigwig_average.bw
 shortLabel CD4_TH2_bigwigs_bigwig_average
 longLabel CD4_TH2_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -58,7 +58,7 @@ maxHeightPixels 100:50:8
 
 track CD4_centralMemory_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD4_centralMemory_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD4_centralMemory_bigwigs_bigwig_average.bw
 shortLabel CD4_centralMemory_bigwigs_bigwig_average
 longLabel CD4_centralMemory_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -67,7 +67,7 @@ maxHeightPixels 100:50:8
 
 track CD4_effectorMemory_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD4_effectorMemory_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD4_effectorMemory_bigwigs_bigwig_average.bw
 shortLabel CD4_effectorMemory_bigwigs_bigwig_average
 longLabel CD4_effectorMemory_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -76,7 +76,7 @@ maxHeightPixels 100:50:8
 
 track CD4_naive_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD4_naive_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD4_naive_bigwigs_bigwig_average.bw
 shortLabel CD4_naive_bigwigs_bigwig_average
 longLabel CD4_naive_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -85,7 +85,7 @@ maxHeightPixels 100:50:8
 
 track CD8pos_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD8pos_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD8pos_T_T1_bigwigs_bigwig_average.bw
 shortLabel CD8pos_T_T1_bigwigs_bigwig_average
 longLabel CD8pos_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -94,7 +94,7 @@ maxHeightPixels 100:50:8
 
 track CD8pos_T_Untreated_bigwigs_bigwig_average
 type bigWig
-bigDataUrl CD8pos_T_Untreated_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/CD8pos_T_Untreated_bigwigs_bigwig_average.bw
 shortLabel CD8pos_T_Untreated_bigwigs_bigwig_average
 longLabel CD8pos_T_Untreated_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -103,7 +103,7 @@ maxHeightPixels 100:50:8
 
 track Central_memory_CD8pos_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Central_memory_CD8pos_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Central_memory_CD8pos_T_T1_bigwigs_bigwig_average.bw
 shortLabel Central_memory_CD8pos_T_T1_bigwigs_bigwig_average
 longLabel Central_memory_CD8pos_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -112,7 +112,7 @@ maxHeightPixels 100:50:8
 
 track Central_memory_CD8pos_T_Untreated_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Central_memory_CD8pos_T_Untreated_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Central_memory_CD8pos_T_Untreated_bigwigs_bigwig_average.bw
 shortLabel Central_memory_CD8pos_T_Untreated_bigwigs_bigwig_average
 longLabel Central_memory_CD8pos_T_Untreated_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -121,7 +121,7 @@ maxHeightPixels 100:50:8
 
 track Effector_CD4pos_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Effector_CD4pos_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Effector_CD4pos_T_T1_bigwigs_bigwig_average.bw
 shortLabel Effector_CD4pos_T_T1_bigwigs_bigwig_average
 longLabel Effector_CD4pos_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -130,7 +130,7 @@ maxHeightPixels 100:50:8
 
 track Effector_CD4pos_T_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Effector_CD4pos_T_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Effector_CD4pos_T_bigwigs_bigwig_average.bw
 shortLabel Effector_CD4pos_T_bigwigs_bigwig_average
 longLabel Effector_CD4pos_T_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -139,7 +139,7 @@ maxHeightPixels 100:50:8
 
 track Effector_memory_CD8pos_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Effector_memory_CD8pos_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Effector_memory_CD8pos_T_T1_bigwigs_bigwig_average.bw
 shortLabel Effector_memory_CD8pos_T_T1_bigwigs_bigwig_average
 longLabel Effector_memory_CD8pos_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -148,7 +148,7 @@ maxHeightPixels 100:50:8
 
 track Effector_memory_CD8pos_T_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Effector_memory_CD8pos_T_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Effector_memory_CD8pos_T_bigwigs_bigwig_average.bw
 shortLabel Effector_memory_CD8pos_T_bigwigs_bigwig_average
 longLabel Effector_memory_CD8pos_T_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -157,7 +157,7 @@ maxHeightPixels 100:50:8
 
 track Follicular_T_Helper_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Follicular_T_Helper_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Follicular_T_Helper_T1_bigwigs_bigwig_average.bw
 shortLabel Follicular_T_Helper_T1_bigwigs_bigwig_average
 longLabel Follicular_T_Helper_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -166,7 +166,7 @@ maxHeightPixels 100:50:8
 
 track Follicular_T_Helper_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Follicular_T_Helper_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Follicular_T_Helper_bigwigs_bigwig_average.bw
 shortLabel Follicular_T_Helper_bigwigs_bigwig_average
 longLabel Follicular_T_Helper_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -175,7 +175,7 @@ maxHeightPixels 100:50:8
 
 track Gamma_delta_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Gamma_delta_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Gamma_delta_T_T1_bigwigs_bigwig_average.bw
 shortLabel Gamma_delta_T_T1_bigwigs_bigwig_average
 longLabel Gamma_delta_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -184,7 +184,7 @@ maxHeightPixels 100:50:8
 
 track Gamma_delta_T_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Gamma_delta_T_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Gamma_delta_T_bigwigs_bigwig_average.bw
 shortLabel Gamma_delta_T_bigwigs_bigwig_average
 longLabel Gamma_delta_T_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -193,7 +193,7 @@ maxHeightPixels 100:50:8
 
 track Immature_NK_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Immature_NK_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Immature_NK_bigwigs_bigwig_average.bw
 shortLabel Immature_NK_bigwigs_bigwig_average
 longLabel Immature_NK_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -202,7 +202,7 @@ maxHeightPixels 100:50:8
 
 track Mature_NK_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Mature_NK_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Mature_NK_T1_bigwigs_bigwig_average.bw
 shortLabel Mature_NK_T1_bigwigs_bigwig_average
 longLabel Mature_NK_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -211,7 +211,7 @@ maxHeightPixels 100:50:8
 
 track Mature_NK_T2_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Mature_NK_T2_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Mature_NK_T2_bigwigs_bigwig_average.bw
 shortLabel Mature_NK_T2_bigwigs_bigwig_average
 longLabel Mature_NK_T2_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -220,7 +220,7 @@ maxHeightPixels 100:50:8
 
 track Mature_NK_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Mature_NK_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Mature_NK_bigwigs_bigwig_average.bw
 shortLabel Mature_NK_bigwigs_bigwig_average
 longLabel Mature_NK_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -229,7 +229,7 @@ maxHeightPixels 100:50:8
 
 track Mem_B_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Mem_B_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Mem_B_T1_bigwigs_bigwig_average.bw
 shortLabel Mem_B_T1_bigwigs_bigwig_average
 longLabel Mem_B_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -238,7 +238,7 @@ maxHeightPixels 100:50:8
 
 track Mem_B_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Mem_B_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Mem_B_bigwigs_bigwig_average.bw
 shortLabel Mem_B_bigwigs_bigwig_average
 longLabel Mem_B_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -247,7 +247,7 @@ maxHeightPixels 100:50:8
 
 track Memory_NK_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Memory_NK_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Memory_NK_bigwigs_bigwig_average.bw
 shortLabel Memory_NK_bigwigs_bigwig_average
 longLabel Memory_NK_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -256,7 +256,7 @@ maxHeightPixels 100:50:8
 
 track Memory_Teffs_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Memory_Teffs_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Memory_Teffs_T1_bigwigs_bigwig_average.bw
 shortLabel Memory_Teffs_T1_bigwigs_bigwig_average
 longLabel Memory_Teffs_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -265,7 +265,7 @@ maxHeightPixels 100:50:8
 
 track Memory_Teffs_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Memory_Teffs_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Memory_Teffs_bigwigs_bigwig_average.bw
 shortLabel Memory_Teffs_bigwigs_bigwig_average
 longLabel Memory_Teffs_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -274,7 +274,7 @@ maxHeightPixels 100:50:8
 
 track Memory_Tregs_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Memory_Tregs_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Memory_Tregs_T1_bigwigs_bigwig_average.bw
 shortLabel Memory_Tregs_T1_bigwigs_bigwig_average
 longLabel Memory_Tregs_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -283,7 +283,7 @@ maxHeightPixels 100:50:8
 
 track Memory_Tregs_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Memory_Tregs_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Memory_Tregs_bigwigs_bigwig_average.bw
 shortLabel Memory_Tregs_bigwigs_bigwig_average
 longLabel Memory_Tregs_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -292,7 +292,7 @@ maxHeightPixels 100:50:8
 
 track Mesenchymal_BM_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Mesenchymal_BM_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Mesenchymal_BM_bigwigs_bigwig_average.bw
 shortLabel Mesenchymal_BM_bigwigs_bigwig_average
 longLabel Mesenchymal_BM_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -301,7 +301,7 @@ maxHeightPixels 100:50:8
 
 track Monocytes_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Monocytes_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Monocytes_T1_bigwigs_bigwig_average.bw
 shortLabel Monocytes_T1_bigwigs_bigwig_average
 longLabel Monocytes_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -310,7 +310,7 @@ maxHeightPixels 100:50:8
 
 track Monocytes_T2_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Monocytes_T2_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Monocytes_T2_bigwigs_bigwig_average.bw
 shortLabel Monocytes_T2_bigwigs_bigwig_average
 longLabel Monocytes_T2_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -319,7 +319,7 @@ maxHeightPixels 100:50:8
 
 track Monocytes_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Monocytes_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Monocytes_bigwigs_bigwig_average.bw
 shortLabel Monocytes_bigwigs_bigwig_average
 longLabel Monocytes_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -328,7 +328,7 @@ maxHeightPixels 100:50:8
 
 track Myeloid_DCs_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Myeloid_DCs_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Myeloid_DCs_bigwigs_bigwig_average.bw
 shortLabel Myeloid_DCs_bigwigs_bigwig_average
 longLabel Myeloid_DCs_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -337,7 +337,7 @@ maxHeightPixels 100:50:8
 
 track Naive_B_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_B_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_B_T1_bigwigs_bigwig_average.bw
 shortLabel Naive_B_T1_bigwigs_bigwig_average
 longLabel Naive_B_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -346,7 +346,7 @@ maxHeightPixels 100:50:8
 
 track Naive_B_T2_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_B_T2_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_B_T2_bigwigs_bigwig_average.bw
 shortLabel Naive_B_T2_bigwigs_bigwig_average
 longLabel Naive_B_T2_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -355,7 +355,7 @@ maxHeightPixels 100:50:8
 
 track Naive_B_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_B_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_B_bigwigs_bigwig_average.bw
 shortLabel Naive_B_bigwigs_bigwig_average
 longLabel Naive_B_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -364,7 +364,7 @@ maxHeightPixels 100:50:8
 
 track Naive_CD8_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_CD8_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_CD8_T_T1_bigwigs_bigwig_average.bw
 shortLabel Naive_CD8_T_T1_bigwigs_bigwig_average
 longLabel Naive_CD8_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -373,7 +373,7 @@ maxHeightPixels 100:50:8
 
 track Naive_CD8_T_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_CD8_T_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_CD8_T_bigwigs_bigwig_average.bw
 shortLabel Naive_CD8_T_bigwigs_bigwig_average
 longLabel Naive_CD8_T_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -382,7 +382,7 @@ maxHeightPixels 100:50:8
 
 track Naive_Teffs_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_Teffs_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_Teffs_T1_bigwigs_bigwig_average.bw
 shortLabel Naive_Teffs_T1_bigwigs_bigwig_average
 longLabel Naive_Teffs_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -391,7 +391,7 @@ maxHeightPixels 100:50:8
 
 track Naive_Teffs_T2_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_Teffs_T2_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_Teffs_T2_bigwigs_bigwig_average.bw
 shortLabel Naive_Teffs_T2_bigwigs_bigwig_average
 longLabel Naive_Teffs_T2_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -400,7 +400,7 @@ maxHeightPixels 100:50:8
 
 track Naive_Teffs_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_Teffs_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_Teffs_bigwigs_bigwig_average.bw
 shortLabel Naive_Teffs_bigwigs_bigwig_average
 longLabel Naive_Teffs_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -409,7 +409,7 @@ maxHeightPixels 100:50:8
 
 track Naive_Tregs_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_Tregs_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_Tregs_T1_bigwigs_bigwig_average.bw
 shortLabel Naive_Tregs_T1_bigwigs_bigwig_average
 longLabel Naive_Tregs_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -418,7 +418,7 @@ maxHeightPixels 100:50:8
 
 track Naive_Tregs_T2_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_Tregs_T2_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_Tregs_T2_bigwigs_bigwig_average.bw
 shortLabel Naive_Tregs_T2_bigwigs_bigwig_average
 longLabel Naive_Tregs_T2_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -427,7 +427,7 @@ maxHeightPixels 100:50:8
 
 track Naive_Tregs_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Naive_Tregs_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Naive_Tregs_bigwigs_bigwig_average.bw
 shortLabel Naive_Tregs_bigwigs_bigwig_average
 longLabel Naive_Tregs_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -436,7 +436,7 @@ maxHeightPixels 100:50:8
 
 track Plasma_cells_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Plasma_cells_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Plasma_cells_bigwigs_bigwig_average.bw
 shortLabel Plasma_cells_bigwigs_bigwig_average
 longLabel Plasma_cells_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -445,7 +445,7 @@ maxHeightPixels 100:50:8
 
 track Plasmablasts_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Plasmablasts_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Plasmablasts_bigwigs_bigwig_average.bw
 shortLabel Plasmablasts_bigwigs_bigwig_average
 longLabel Plasmablasts_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -454,7 +454,7 @@ maxHeightPixels 100:50:8
 
 track Preplasmablasts_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Preplasmablasts_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Preplasmablasts_bigwigs_bigwig_average.bw
 shortLabel Preplasmablasts_bigwigs_bigwig_average
 longLabel Preplasmablasts_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -463,7 +463,7 @@ maxHeightPixels 100:50:8
 
 track Regulatory_T_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Regulatory_T_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Regulatory_T_T1_bigwigs_bigwig_average.bw
 shortLabel Regulatory_T_T1_bigwigs_bigwig_average
 longLabel Regulatory_T_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -472,7 +472,7 @@ maxHeightPixels 100:50:8
 
 track Regulatory_T_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Regulatory_T_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Regulatory_T_bigwigs_bigwig_average.bw
 shortLabel Regulatory_T_bigwigs_bigwig_average
 longLabel Regulatory_T_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -481,7 +481,7 @@ maxHeightPixels 100:50:8
 
 track Th17_precursors_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Th17_precursors_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Th17_precursors_T1_bigwigs_bigwig_average.bw
 shortLabel Th17_precursors_T1_bigwigs_bigwig_average
 longLabel Th17_precursors_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -490,7 +490,7 @@ maxHeightPixels 100:50:8
 
 track Th17_precursors_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Th17_precursors_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Th17_precursors_bigwigs_bigwig_average.bw
 shortLabel Th17_precursors_bigwigs_bigwig_average
 longLabel Th17_precursors_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -499,7 +499,7 @@ maxHeightPixels 100:50:8
 
 track Th1_precursors_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Th1_precursors_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Th1_precursors_T1_bigwigs_bigwig_average.bw
 shortLabel Th1_precursors_T1_bigwigs_bigwig_average
 longLabel Th1_precursors_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -508,7 +508,7 @@ maxHeightPixels 100:50:8
 
 track Th1_precursors_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Th1_precursors_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Th1_precursors_bigwigs_bigwig_average.bw
 shortLabel Th1_precursors_bigwigs_bigwig_average
 longLabel Th1_precursors_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -517,7 +517,7 @@ maxHeightPixels 100:50:8
 
 track Th2_precursors_T1_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Th2_precursors_T1_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Th2_precursors_T1_bigwigs_bigwig_average.bw
 shortLabel Th2_precursors_T1_bigwigs_bigwig_average
 longLabel Th2_precursors_T1_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -526,7 +526,7 @@ maxHeightPixels 100:50:8
 
 track Th2_precursors_bigwigs_bigwig_average
 type bigWig
-bigDataUrl Th2_precursors_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/Th2_precursors_bigwigs_bigwig_average.bw
 shortLabel Th2_precursors_bigwigs_bigwig_average
 longLabel Th2_precursors_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
@@ -535,7 +535,7 @@ maxHeightPixels 100:50:8
 
 track pDCs_bigwigs_bigwig_average
 type bigWig
-bigDataUrl pDCs_bigwigs_bigwig_average.bw
+bigDataUrl https://raw.githubusercontent.com/conallgm/mini_immune_atlas_january_2025/main/pDCs_bigwigs_bigwig_average.bw
 shortLabel pDCs_bigwigs_bigwig_average
 longLabel pDCs_bigwigs_bigwig_average chrX bigWig (CPM)
 visibility full
