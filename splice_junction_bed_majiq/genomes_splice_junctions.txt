@@ -1,2 +1,2 @@
 genome hg38
-trackDb splice_junction_bed_majiq/beds/trackDb.txt
+trackDb beds/trackDb.txt
