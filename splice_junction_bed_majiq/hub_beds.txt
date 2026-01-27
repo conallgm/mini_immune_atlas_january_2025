@@ -1,5 +1,5 @@
 hub MiniImmuneAtlas
 shortLabel Mini Immune Atlas
 longLabel Mini Immune Atlas – DDX3X majiq splice junction tracks
-genomesFile splice_junction_bed_majiq/genomes_splice_junctions.txt
+genomesFile genomes_splice_junctions.txt
 email conall.geogheganmoore.2018@mumail.ie
