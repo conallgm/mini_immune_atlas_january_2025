@@ -1,539 +1,599 @@
 track Bcell_CD5_PSI
-type bed
-bigDataUrl Bcell_CD5_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Bcell_CD5_PSI_gradient_bigBed 6+
 shortLabel Bcell_CD5_PSI
-longLabel Bcell_CD5_PSI_majiq_splice_junctions
+longLabel Bcell_CD5_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Bulk_B_T1_PSI
-type bed
-bigDataUrl Bulk_B_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Bulk_B_T1_PSI_gradient_bigBed 6+
 shortLabel Bulk_B_T1_PSI
-longLabel Bulk_B_T1_PSI_majiq_splice_junctions
+longLabel Bulk_B_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Bulk_B_Untreated_PSI
-type bed
-bigDataUrl Bulk_B_Untreated_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Bulk_B_Untreated_PSI_gradient_bigBed 6+
 shortLabel Bulk_B_Untreated_PSI
-longLabel Bulk_B_Untreated_PSI_majiq_splice_junctions
+longLabel Bulk_B_Untreated_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD4_TH17_PSI
-type bed
-bigDataUrl CD4_TH17_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD4_TH17_PSI_gradient_bigBed 6+
 shortLabel CD4_TH17_PSI
-longLabel CD4_TH17_PSI_majiq_splice_junctions
+longLabel CD4_TH17_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD4_TH1_PSI
-type bed
-bigDataUrl CD4_TH1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD4_TH1_PSI_gradient_bigBed 6+
 shortLabel CD4_TH1_PSI
-longLabel CD4_TH1_PSI_majiq_splice_junctions
+longLabel CD4_TH1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD4_TH2_PSI
-type bed
-bigDataUrl CD4_TH2_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD4_TH2_PSI_gradient_bigBed 6+
 shortLabel CD4_TH2_PSI
-longLabel CD4_TH2_PSI_majiq_splice_junctions
+longLabel CD4_TH2_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD4_centralMemory_PSI
-type bed
-bigDataUrl CD4_centralMemory_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD4_centralMemory_PSI_gradient_bigBed 6+
 shortLabel CD4_centralMemory_PSI
-longLabel CD4_centralMemory_PSI_majiq_splice_junctions
+longLabel CD4_centralMemory_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD4_effectorMemory_PSI
-type bed
-bigDataUrl CD4_effectorMemory_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD4_effectorMemory_PSI_gradient_bigBed 6+
 shortLabel CD4_effectorMemory_PSI
-longLabel CD4_effectorMemory_PSI_majiq_splice_junctions
+longLabel CD4_effectorMemory_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD4_naive_PSI
-type bed
-bigDataUrl CD4_naive_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD4_naive_PSI_gradient_bigBed 6+
 shortLabel CD4_naive_PSI
-longLabel CD4_naive_PSI_majiq_splice_junctions
+longLabel CD4_naive_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD8pos_T_T1_PSI
-type bed
-bigDataUrl CD8pos_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD8pos_T_T1_PSI_gradient_bigBed 6+
 shortLabel CD8pos_T_T1_PSI
-longLabel CD8pos_T_T1_PSI_majiq_splice_junctions
+longLabel CD8pos_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track CD8pos_T_Untreated_PSI
-type bed
-bigDataUrl CD8pos_T_Untreated_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl CD8pos_T_Untreated_PSI_gradient_bigBed 6+
 shortLabel CD8pos_T_Untreated_PSI
-longLabel CD8pos_T_Untreated_PSI_majiq_splice_junctions
+longLabel CD8pos_T_Untreated_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Central_memory_CD8pos_T_T1_PSI
-type bed
-bigDataUrl Central_memory_CD8pos_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Central_memory_CD8pos_T_T1_PSI_gradient_bigBed 6+
 shortLabel Central_memory_CD8pos_T_T1_PSI
-longLabel Central_memory_CD8pos_T_T1_PSI_majiq_splice_junctions
+longLabel Central_memory_CD8pos_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Central_memory_CD8pos_T_Untreated_PSI
-type bed
-bigDataUrl Central_memory_CD8pos_T_Untreated_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Central_memory_CD8pos_T_Untreated_PSI_gradient_bigBed 6+
 shortLabel Central_memory_CD8pos_T_Untreated_PSI
-longLabel Central_memory_CD8pos_T_Untreated_PSI_majiq_splice_junctions
+longLabel Central_memory_CD8pos_T_Untreated_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Effector_CD4pos_T_T1_PSI
-type bed
-bigDataUrl Effector_CD4pos_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Effector_CD4pos_T_T1_PSI_gradient_bigBed 6+
 shortLabel Effector_CD4pos_T_T1_PSI
-longLabel Effector_CD4pos_T_T1_PSI_majiq_splice_junctions
+longLabel Effector_CD4pos_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Effector_CD4pos_T_PSI
-type bed
-bigDataUrl Effector_CD4pos_T_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Effector_CD4pos_T_PSI_gradient_bigBed 6+
 shortLabel Effector_CD4pos_T_PSI
-longLabel Effector_CD4pos_T_PSI_majiq_splice_junctions
+longLabel Effector_CD4pos_T_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Effector_memory_CD8pos_T_T1_PSI
-type bed
-bigDataUrl Effector_memory_CD8pos_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Effector_memory_CD8pos_T_T1_PSI_gradient_bigBed 6+
 shortLabel Effector_memory_CD8pos_T_T1_PSI
-longLabel Effector_memory_CD8pos_T_T1_PSI_majiq_splice_junctions
+longLabel Effector_memory_CD8pos_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Effector_memory_CD8pos_T_PSI
-type bed
-bigDataUrl Effector_memory_CD8pos_T_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Effector_memory_CD8pos_T_PSI_gradient_bigBed 6+
 shortLabel Effector_memory_CD8pos_T_PSI
-longLabel Effector_memory_CD8pos_T_PSI_majiq_splice_junctions
+longLabel Effector_memory_CD8pos_T_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Follicular_T_Helper_T1_PSI
-type bed
-bigDataUrl Follicular_T_Helper_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Follicular_T_Helper_T1_PSI_gradient_bigBed 6+
 shortLabel Follicular_T_Helper_T1_PSI
-longLabel Follicular_T_Helper_T1_PSI_majiq_splice_junctions
+longLabel Follicular_T_Helper_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Follicular_T_Helper_PSI
-type bed
-bigDataUrl Follicular_T_Helper_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Follicular_T_Helper_PSI_gradient_bigBed 6+
 shortLabel Follicular_T_Helper_PSI
-longLabel Follicular_T_Helper_PSI_majiq_splice_junctions
+longLabel Follicular_T_Helper_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Gamma_delta_T_T1_PSI
-type bed
-bigDataUrl Gamma_delta_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Gamma_delta_T_T1_PSI_gradient_bigBed 6+
 shortLabel Gamma_delta_T_T1_PSI
-longLabel Gamma_delta_T_T1_PSI_majiq_splice_junctions
+longLabel Gamma_delta_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Gamma_delta_T_PSI
-type bed
-bigDataUrl Gamma_delta_T_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Gamma_delta_T_PSI_gradient_bigBed 6+
 shortLabel Gamma_delta_T_PSI
-longLabel Gamma_delta_T_PSI_majiq_splice_junctions
+longLabel Gamma_delta_T_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Immature_NK_PSI
-type bed
-bigDataUrl Immature_NK_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Immature_NK_PSI_gradient_bigBed 6+
 shortLabel Immature_NK_PSI
-longLabel Immature_NK_PSI_majiq_splice_junctions
+longLabel Immature_NK_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Mature_NK_T1_PSI
-type bed
-bigDataUrl Mature_NK_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Mature_NK_T1_PSI_gradient_bigBed 6+
 shortLabel Mature_NK_T1_PSI
-longLabel Mature_NK_T1_PSI_majiq_splice_junctions
+longLabel Mature_NK_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Mature_NK_T2_PSI
-type bed
-bigDataUrl Mature_NK_T2_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Mature_NK_T2_PSI_gradient_bigBed 6+
 shortLabel Mature_NK_T2_PSI
-longLabel Mature_NK_T2_PSI_majiq_splice_junctions
+longLabel Mature_NK_T2_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Mature_NK_PSI
-type bed
-bigDataUrl Mature_NK_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Mature_NK_PSI_gradient_bigBed 6+
 shortLabel Mature_NK_PSI
-longLabel Mature_NK_PSI_majiq_splice_junctions
+longLabel Mature_NK_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Mem_B_T1_PSI
-type bed
-bigDataUrl Mem_B_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Mem_B_T1_PSI_gradient_bigBed 6+
 shortLabel Mem_B_T1_PSI
-longLabel Mem_B_T1_PSI_majiq_splice_junctions
+longLabel Mem_B_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Mem_B_PSI
-type bed
-bigDataUrl Mem_B_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Mem_B_PSI_gradient_bigBed 6+
 shortLabel Mem_B_PSI
-longLabel Mem_B_PSI_majiq_splice_junctions
+longLabel Mem_B_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Memory_NK_PSI
-type bed
-bigDataUrl Memory_NK_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Memory_NK_PSI_gradient_bigBed 6+
 shortLabel Memory_NK_PSI
-longLabel Memory_NK_PSI_majiq_splice_junctions
+longLabel Memory_NK_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Memory_Teffs_T1_PSI
-type bed
-bigDataUrl Memory_Teffs_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Memory_Teffs_T1_PSI_gradient_bigBed 6+
 shortLabel Memory_Teffs_T1_PSI
-longLabel Memory_Teffs_T1_PSI_majiq_splice_junctions
+longLabel Memory_Teffs_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Memory_Teffs_PSI
-type bed
-bigDataUrl Memory_Teffs_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Memory_Teffs_PSI_gradient_bigBed 6+
 shortLabel Memory_Teffs_PSI
-longLabel Memory_Teffs_PSI_majiq_splice_junctions
+longLabel Memory_Teffs_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Memory_Tregs_T1_PSI
-type bed
-bigDataUrl Memory_Tregs_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Memory_Tregs_T1_PSI_gradient_bigBed 6+
 shortLabel Memory_Tregs_T1_PSI
-longLabel Memory_Tregs_T1_PSI_majiq_splice_junctions
+longLabel Memory_Tregs_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Memory_Tregs_PSI
-type bed
-bigDataUrl Memory_Tregs_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Memory_Tregs_PSI_gradient_bigBed 6+
 shortLabel Memory_Tregs_PSI
-longLabel Memory_Tregs_PSI_majiq_splice_junctions
+longLabel Memory_Tregs_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Mesenchymal_BM_PSI
-type bed
-bigDataUrl Mesenchymal_BM_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Mesenchymal_BM_PSI_gradient_bigBed 6+
 shortLabel Mesenchymal_BM_PSI
-longLabel Mesenchymal_BM_PSI_majiq_splice_junctions
+longLabel Mesenchymal_BM_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Monocytes_T1_PSI
-type bed
-bigDataUrl Monocytes_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Monocytes_T1_PSI_gradient_bigBed 6+
 shortLabel Monocytes_T1_PSI
-longLabel Monocytes_T1_PSI_majiq_splice_junctions
+longLabel Monocytes_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Monocytes_T2_PSI
-type bed
-bigDataUrl Monocytes_T2_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Monocytes_T2_PSI_gradient_bigBed 6+
 shortLabel Monocytes_T2_PSI
-longLabel Monocytes_T2_PSI_majiq_splice_junctions
+longLabel Monocytes_T2_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Monocytes_PSI
-type bed
-bigDataUrl Monocytes_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Monocytes_PSI_gradient_bigBed 6+
 shortLabel Monocytes_PSI
-longLabel Monocytes_PSI_majiq_splice_junctions
+longLabel Monocytes_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Myeloid_DCs_PSI
-type bed
-bigDataUrl Myeloid_DCs_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Myeloid_DCs_PSI_gradient_bigBed 6+
 shortLabel Myeloid_DCs_PSI
-longLabel Myeloid_DCs_PSI_majiq_splice_junctions
+longLabel Myeloid_DCs_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_B_T1_PSI
-type bed
-bigDataUrl Naive_B_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_B_T1_PSI_gradient_bigBed 6+
 shortLabel Naive_B_T1_PSI
-longLabel Naive_B_T1_PSI_majiq_splice_junctions
+longLabel Naive_B_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_B_T2_PSI
-type bed
-bigDataUrl Naive_B_T2_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_B_T2_PSI_gradient_bigBed 6+
 shortLabel Naive_B_T2_PSI
-longLabel Naive_B_T2_PSI_majiq_splice_junctions
+longLabel Naive_B_T2_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_B_PSI
-type bed
-bigDataUrl Naive_B_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_B_PSI_gradient_bigBed 6+
 shortLabel Naive_B_PSI
-longLabel Naive_B_PSI_majiq_splice_junctions
+longLabel Naive_B_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_CD8_T_T1_PSI
-type bed
-bigDataUrl Naive_CD8_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_CD8_T_T1_PSI_gradient_bigBed 6+
 shortLabel Naive_CD8_T_T1_PSI
-longLabel Naive_CD8_T_T1_PSI_majiq_splice_junctions
+longLabel Naive_CD8_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_CD8_T_PSI
-type bed
-bigDataUrl Naive_CD8_T_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_CD8_T_PSI_gradient_bigBed 6+
 shortLabel Naive_CD8_T_PSI
-longLabel Naive_CD8_T_PSI_majiq_splice_junctions
+longLabel Naive_CD8_T_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_Teffs_T1_PSI
-type bed
-bigDataUrl Naive_Teffs_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_Teffs_T1_PSI_gradient_bigBed 6+
 shortLabel Naive_Teffs_T1_PSI
-longLabel Naive_Teffs_T1_PSI_majiq_splice_junctions
+longLabel Naive_Teffs_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_Teffs_T2_PSI
-type bed
-bigDataUrl Naive_Teffs_T2_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_Teffs_T2_PSI_gradient_bigBed 6+
 shortLabel Naive_Teffs_T2_PSI
-longLabel Naive_Teffs_T2_PSI_majiq_splice_junctions
+longLabel Naive_Teffs_T2_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_Teffs_PSI
-type bed
-bigDataUrl Naive_Teffs_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_Teffs_PSI_gradient_bigBed 6+
 shortLabel Naive_Teffs_PSI
-longLabel Naive_Teffs_PSI_majiq_splice_junctions
+longLabel Naive_Teffs_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_Tregs_T1_PSI
-type bed
-bigDataUrl Naive_Tregs_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_Tregs_T1_PSI_gradient_bigBed 6+
 shortLabel Naive_Tregs_T1_PSI
-longLabel Naive_Tregs_T1_PSI_majiq_splice_junctions
+longLabel Naive_Tregs_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_Tregs_T2_PSI
-type bed
-bigDataUrl Naive_Tregs_T2_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_Tregs_T2_PSI_gradient_bigBed 6+
 shortLabel Naive_Tregs_T2_PSI
-longLabel Naive_Tregs_T2_PSI_majiq_splice_junctions
+longLabel Naive_Tregs_T2_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Naive_Tregs_PSI
-type bed
-bigDataUrl Naive_Tregs_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Naive_Tregs_PSI_gradient_bigBed 6+
 shortLabel Naive_Tregs_PSI
-longLabel Naive_Tregs_PSI_majiq_splice_junctions
+longLabel Naive_Tregs_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Plasma_cells_PSI
-type bed
-bigDataUrl Plasma_cells_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Plasma_cells_PSI_gradient_bigBed 6+
 shortLabel Plasma_cells_PSI
-longLabel Plasma_cells_PSI_majiq_splice_junctions
+longLabel Plasma_cells_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Plasmablasts_PSI
-type bed
-bigDataUrl Plasmablasts_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Plasmablasts_PSI_gradient_bigBed 6+
 shortLabel Plasmablasts_PSI
-longLabel Plasmablasts_PSI_majiq_splice_junctions
+longLabel Plasmablasts_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Preplasmablasts_PSI
-type bed
-bigDataUrl Preplasmablasts_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Preplasmablasts_PSI_gradient_bigBed 6+
 shortLabel Preplasmablasts_PSI
-longLabel Preplasmablasts_PSI_majiq_splice_junctions
+longLabel Preplasmablasts_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Regulatory_T_T1_PSI
-type bed
-bigDataUrl Regulatory_T_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Regulatory_T_T1_PSI_gradient_bigBed 6+
 shortLabel Regulatory_T_T1_PSI
-longLabel Regulatory_T_T1_PSI_majiq_splice_junctions
+longLabel Regulatory_T_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Regulatory_T_PSI
-type bed
-bigDataUrl Regulatory_T_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Regulatory_T_PSI_gradient_bigBed 6+
 shortLabel Regulatory_T_PSI
-longLabel Regulatory_T_PSI_majiq_splice_junctions
+longLabel Regulatory_T_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Th17_precursors_T1_PSI
-type bed
-bigDataUrl Th17_precursors_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Th17_precursors_T1_PSI_gradient_bigBed 6+
 shortLabel Th17_precursors_T1_PSI
-longLabel Th17_precursors_T1_PSI_majiq_splice_junctions
+longLabel Th17_precursors_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Th17_precursors_PSI
-type bed
-bigDataUrl Th17_precursors_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Th17_precursors_PSI_gradient_bigBed 6+
 shortLabel Th17_precursors_PSI
-longLabel Th17_precursors_PSI_majiq_splice_junctions
+longLabel Th17_precursors_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Th1_precursors_T1_PSI
-type bed
-bigDataUrl Th1_precursors_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Th1_precursors_T1_PSI_gradient_bigBed 6+
 shortLabel Th1_precursors_T1_PSI
-longLabel Th1_precursors_T1_PSI_majiq_splice_junctions
+longLabel Th1_precursors_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Th1_precursors_PSI
-type bed
-bigDataUrl Th1_precursors_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Th1_precursors_PSI_gradient_bigBed 6+
 shortLabel Th1_precursors_PSI
-longLabel Th1_precursors_PSI_majiq_splice_junctions
+longLabel Th1_precursors_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Th2_precursors_T1_PSI
-type bed
-bigDataUrl Th2_precursors_T1_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Th2_precursors_T1_PSI_gradient_bigBed 6+
 shortLabel Th2_precursors_T1_PSI
-longLabel Th2_precursors_T1_PSI_majiq_splice_junctions
+longLabel Th2_precursors_T1_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track Th2_precursors_PSI
-type bed
-bigDataUrl Th2_precursors_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl Th2_precursors_PSI_gradient_bigBed 6+
 shortLabel Th2_precursors_PSI
-longLabel Th2_precursors_PSI_majiq_splice_junctions
+longLabel Th2_precursors_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
 
 track pDCs_PSI
-type bed
-bigDataUrl pDCs_PSI_gradient_bed
+type bigBed 6+
+bigDataUrl pDCs_PSI_gradient_bigBed 6+
 shortLabel pDCs_PSI
-longLabel pDCs_PSI_majiq_splice_junctions
+longLabel pDCs_splice_junctions_PSI_gradient.int5.bed
 visibility full
+color <R,G,B>
 autoScale on
 maxHeightPixels 100:50:8
