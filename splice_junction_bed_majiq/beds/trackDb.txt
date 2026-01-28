@@ -2,7 +2,7 @@ track Bcell_CD5_PSI
 type bigBed 6+
 bigDataUrl Bcell_CD5_splice_junctions_PSI_gradient.bb
 shortLabel Bcell_CD5_PSI
-longLabel Bcell_CD5_splice_junctions_PSI_gradient.int5.bed
+longLabel Bcell_CD5_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -12,7 +12,7 @@ track Bulk_B_T1_PSI
 type bigBed 6+
 bigDataUrl Bulk_B_T1_splice_junctions_PSI_gradient.bb
 shortLabel Bulk_B_T1_PSI
-longLabel Bulk_B_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Bulk_B_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -22,7 +22,7 @@ track Bulk_B_Untreated_PSI
 type bigBed 6+
 bigDataUrl Bulk_B_Untreated_splice_junctions_PSI_gradient.bb
 shortLabel Bulk_B_Untreated_PSI
-longLabel Bulk_B_Untreated_splice_junctions_PSI_gradient.int5.bed
+longLabel Bulk_B_Untreated_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -32,7 +32,7 @@ track CD4_TH17_PSI
 type bigBed 6+
 bigDataUrl CD4_TH17_splice_junctions_PSI_gradient.bb
 shortLabel CD4_TH17_PSI
-longLabel CD4_TH17_splice_junctions_PSI_gradient.int5.bed
+longLabel CD4_TH17_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -42,7 +42,7 @@ track CD4_TH1_PSI
 type bigBed 6+
 bigDataUrl CD4_TH1_splice_junctions_PSI_gradient.bb
 shortLabel CD4_TH1_PSI
-longLabel CD4_TH1_splice_junctions_PSI_gradient.int5.bed
+longLabel CD4_TH1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -52,7 +52,7 @@ track CD4_TH2_PSI
 type bigBed 6+
 bigDataUrl CD4_TH2_splice_junctions_PSI_gradient.bb
 shortLabel CD4_TH2_PSI
-longLabel CD4_TH2_splice_junctions_PSI_gradient.int5.bed
+longLabel CD4_TH2_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -62,7 +62,7 @@ track CD4_centralMemory_PSI
 type bigBed 6+
 bigDataUrl CD4_centralMemory_splice_junctions_PSI_gradient.bb
 shortLabel CD4_centralMemory_PSI
-longLabel CD4_centralMemory_splice_junctions_PSI_gradient.int5.bed
+longLabel CD4_centralMemory_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -72,7 +72,7 @@ track CD4_effectorMemory_PSI
 type bigBed 6+
 bigDataUrl CD4_effectorMemory_splice_junctions_PSI_gradient.bb
 shortLabel CD4_effectorMemory_PSI
-longLabel CD4_effectorMemory_splice_junctions_PSI_gradient.int5.bed
+longLabel CD4_effectorMemory_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -82,7 +82,7 @@ track CD4_naive_PSI
 type bigBed 6+
 bigDataUrl CD4_naive_splice_junctions_PSI_gradient.bb
 shortLabel CD4_naive_PSI
-longLabel CD4_naive_splice_junctions_PSI_gradient.int5.bed
+longLabel CD4_naive_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -92,7 +92,7 @@ track CD8pos_T_T1_PSI
 type bigBed 6+
 bigDataUrl CD8pos_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel CD8pos_T_T1_PSI
-longLabel CD8pos_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel CD8pos_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -102,7 +102,7 @@ track CD8pos_T_Untreated_PSI
 type bigBed 6+
 bigDataUrl CD8pos_T_Untreated_splice_junctions_PSI_gradient.bb
 shortLabel CD8pos_T_Untreated_PSI
-longLabel CD8pos_T_Untreated_splice_junctions_PSI_gradient.int5.bed
+longLabel CD8pos_T_Untreated_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -112,7 +112,7 @@ track Central_memory_CD8pos_T_T1_PSI
 type bigBed 6+
 bigDataUrl Central_memory_CD8pos_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel Central_memory_CD8pos_T_T1_PSI
-longLabel Central_memory_CD8pos_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Central_memory_CD8pos_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -122,7 +122,7 @@ track Central_memory_CD8pos_T_Untreated_PSI
 type bigBed 6+
 bigDataUrl Central_memory_CD8pos_T_Untreated_splice_junctions_PSI_gradient.bb
 shortLabel Central_memory_CD8pos_T_Untreated_PSI
-longLabel Central_memory_CD8pos_T_Untreated_splice_junctions_PSI_gradient.int5.bed
+longLabel Central_memory_CD8pos_T_Untreated_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -132,7 +132,7 @@ track Effector_CD4pos_T_T1_PSI
 type bigBed 6+
 bigDataUrl Effector_CD4pos_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel Effector_CD4pos_T_T1_PSI
-longLabel Effector_CD4pos_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Effector_CD4pos_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -142,7 +142,7 @@ track Effector_CD4pos_T_PSI
 type bigBed 6+
 bigDataUrl Effector_CD4pos_T_splice_junctions_PSI_gradient.bb
 shortLabel Effector_CD4pos_T_PSI
-longLabel Effector_CD4pos_T_splice_junctions_PSI_gradient.int5.bed
+longLabel Effector_CD4pos_T_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -152,7 +152,7 @@ track Effector_memory_CD8pos_T_T1_PSI
 type bigBed 6+
 bigDataUrl Effector_memory_CD8pos_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel Effector_memory_CD8pos_T_T1_PSI
-longLabel Effector_memory_CD8pos_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Effector_memory_CD8pos_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -162,7 +162,7 @@ track Effector_memory_CD8pos_T_PSI
 type bigBed 6+
 bigDataUrl Effector_memory_CD8pos_T_splice_junctions_PSI_gradient.bb
 shortLabel Effector_memory_CD8pos_T_PSI
-longLabel Effector_memory_CD8pos_T_splice_junctions_PSI_gradient.int5.bed
+longLabel Effector_memory_CD8pos_T_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -172,7 +172,7 @@ track Follicular_T_Helper_T1_PSI
 type bigBed 6+
 bigDataUrl Follicular_T_Helper_T1_splice_junctions_PSI_gradient.bb
 shortLabel Follicular_T_Helper_T1_PSI
-longLabel Follicular_T_Helper_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Follicular_T_Helper_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -182,7 +182,7 @@ track Follicular_T_Helper_PSI
 type bigBed 6+
 bigDataUrl Follicular_T_Helper_splice_junctions_PSI_gradient.bb
 shortLabel Follicular_T_Helper_PSI
-longLabel Follicular_T_Helper_splice_junctions_PSI_gradient.int5.bed
+longLabel Follicular_T_Helper_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -192,7 +192,7 @@ track Gamma_delta_T_T1_PSI
 type bigBed 6+
 bigDataUrl Gamma_delta_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel Gamma_delta_T_T1_PSI
-longLabel Gamma_delta_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Gamma_delta_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -202,7 +202,7 @@ track Gamma_delta_T_PSI
 type bigBed 6+
 bigDataUrl Gamma_delta_T_splice_junctions_PSI_gradient.bb
 shortLabel Gamma_delta_T_PSI
-longLabel Gamma_delta_T_splice_junctions_PSI_gradient.int5.bed
+longLabel Gamma_delta_T_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -212,7 +212,7 @@ track Immature_NK_PSI
 type bigBed 6+
 bigDataUrl Immature_NK_splice_junctions_PSI_gradient.bb
 shortLabel Immature_NK_PSI
-longLabel Immature_NK_splice_junctions_PSI_gradient.int5.bed
+longLabel Immature_NK_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -222,7 +222,7 @@ track Mature_NK_T1_PSI
 type bigBed 6+
 bigDataUrl Mature_NK_T1_splice_junctions_PSI_gradient.bb
 shortLabel Mature_NK_T1_PSI
-longLabel Mature_NK_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Mature_NK_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -232,7 +232,7 @@ track Mature_NK_T2_PSI
 type bigBed 6+
 bigDataUrl Mature_NK_T2_splice_junctions_PSI_gradient.bb
 shortLabel Mature_NK_T2_PSI
-longLabel Mature_NK_T2_splice_junctions_PSI_gradient.int5.bed
+longLabel Mature_NK_T2_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -242,7 +242,7 @@ track Mature_NK_PSI
 type bigBed 6+
 bigDataUrl Mature_NK_splice_junctions_PSI_gradient.bb
 shortLabel Mature_NK_PSI
-longLabel Mature_NK_splice_junctions_PSI_gradient.int5.bed
+longLabel Mature_NK_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -252,7 +252,7 @@ track Mem_B_T1_PSI
 type bigBed 6+
 bigDataUrl Mem_B_T1_splice_junctions_PSI_gradient.bb
 shortLabel Mem_B_T1_PSI
-longLabel Mem_B_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Mem_B_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -262,7 +262,7 @@ track Mem_B_PSI
 type bigBed 6+
 bigDataUrl Mem_B_splice_junctions_PSI_gradient.bb
 shortLabel Mem_B_PSI
-longLabel Mem_B_splice_junctions_PSI_gradient.int5.bed
+longLabel Mem_B_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -272,7 +272,7 @@ track Memory_NK_PSI
 type bigBed 6+
 bigDataUrl Memory_NK_splice_junctions_PSI_gradient.bb
 shortLabel Memory_NK_PSI
-longLabel Memory_NK_splice_junctions_PSI_gradient.int5.bed
+longLabel Memory_NK_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -282,7 +282,7 @@ track Memory_Teffs_T1_PSI
 type bigBed 6+
 bigDataUrl Memory_Teffs_T1_splice_junctions_PSI_gradient.bb
 shortLabel Memory_Teffs_T1_PSI
-longLabel Memory_Teffs_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Memory_Teffs_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -292,7 +292,7 @@ track Memory_Teffs_PSI
 type bigBed 6+
 bigDataUrl Memory_Teffs_splice_junctions_PSI_gradient.bb
 shortLabel Memory_Teffs_PSI
-longLabel Memory_Teffs_splice_junctions_PSI_gradient.int5.bed
+longLabel Memory_Teffs_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -302,7 +302,7 @@ track Memory_Tregs_T1_PSI
 type bigBed 6+
 bigDataUrl Memory_Tregs_T1_splice_junctions_PSI_gradient.bb
 shortLabel Memory_Tregs_T1_PSI
-longLabel Memory_Tregs_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Memory_Tregs_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -312,7 +312,7 @@ track Memory_Tregs_PSI
 type bigBed 6+
 bigDataUrl Memory_Tregs_splice_junctions_PSI_gradient.bb
 shortLabel Memory_Tregs_PSI
-longLabel Memory_Tregs_splice_junctions_PSI_gradient.int5.bed
+longLabel Memory_Tregs_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -322,7 +322,7 @@ track Mesenchymal_BM_PSI
 type bigBed 6+
 bigDataUrl Mesenchymal_BM_splice_junctions_PSI_gradient.bb
 shortLabel Mesenchymal_BM_PSI
-longLabel Mesenchymal_BM_splice_junctions_PSI_gradient.int5.bed
+longLabel Mesenchymal_BM_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -332,7 +332,7 @@ track Monocytes_T1_PSI
 type bigBed 6+
 bigDataUrl Monocytes_T1_splice_junctions_PSI_gradient.bb
 shortLabel Monocytes_T1_PSI
-longLabel Monocytes_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Monocytes_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -342,7 +342,7 @@ track Monocytes_T2_PSI
 type bigBed 6+
 bigDataUrl Monocytes_T2_splice_junctions_PSI_gradient.bb
 shortLabel Monocytes_T2_PSI
-longLabel Monocytes_T2_splice_junctions_PSI_gradient.int5.bed
+longLabel Monocytes_T2_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -352,7 +352,7 @@ track Monocytes_PSI
 type bigBed 6+
 bigDataUrl Monocytes_splice_junctions_PSI_gradient.bb
 shortLabel Monocytes_PSI
-longLabel Monocytes_splice_junctions_PSI_gradient.int5.bed
+longLabel Monocytes_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -362,7 +362,7 @@ track Myeloid_DCs_PSI
 type bigBed 6+
 bigDataUrl Myeloid_DCs_splice_junctions_PSI_gradient.bb
 shortLabel Myeloid_DCs_PSI
-longLabel Myeloid_DCs_splice_junctions_PSI_gradient.int5.bed
+longLabel Myeloid_DCs_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -372,7 +372,7 @@ track Naive_B_T1_PSI
 type bigBed 6+
 bigDataUrl Naive_B_T1_splice_junctions_PSI_gradient.bb
 shortLabel Naive_B_T1_PSI
-longLabel Naive_B_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_B_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -382,7 +382,7 @@ track Naive_B_T2_PSI
 type bigBed 6+
 bigDataUrl Naive_B_T2_splice_junctions_PSI_gradient.bb
 shortLabel Naive_B_T2_PSI
-longLabel Naive_B_T2_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_B_T2_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -392,7 +392,7 @@ track Naive_B_PSI
 type bigBed 6+
 bigDataUrl Naive_B_splice_junctions_PSI_gradient.bb
 shortLabel Naive_B_PSI
-longLabel Naive_B_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_B_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -402,7 +402,7 @@ track Naive_CD8_T_T1_PSI
 type bigBed 6+
 bigDataUrl Naive_CD8_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel Naive_CD8_T_T1_PSI
-longLabel Naive_CD8_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_CD8_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -412,7 +412,7 @@ track Naive_CD8_T_PSI
 type bigBed 6+
 bigDataUrl Naive_CD8_T_splice_junctions_PSI_gradient.bb
 shortLabel Naive_CD8_T_PSI
-longLabel Naive_CD8_T_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_CD8_T_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -422,7 +422,7 @@ track Naive_Teffs_T1_PSI
 type bigBed 6+
 bigDataUrl Naive_Teffs_T1_splice_junctions_PSI_gradient.bb
 shortLabel Naive_Teffs_T1_PSI
-longLabel Naive_Teffs_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_Teffs_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -432,7 +432,7 @@ track Naive_Teffs_T2_PSI
 type bigBed 6+
 bigDataUrl Naive_Teffs_T2_splice_junctions_PSI_gradient.bb
 shortLabel Naive_Teffs_T2_PSI
-longLabel Naive_Teffs_T2_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_Teffs_T2_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -442,7 +442,7 @@ track Naive_Teffs_PSI
 type bigBed 6+
 bigDataUrl Naive_Teffs_splice_junctions_PSI_gradient.bb
 shortLabel Naive_Teffs_PSI
-longLabel Naive_Teffs_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_Teffs_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -452,7 +452,7 @@ track Naive_Tregs_T1_PSI
 type bigBed 6+
 bigDataUrl Naive_Tregs_T1_splice_junctions_PSI_gradient.bb
 shortLabel Naive_Tregs_T1_PSI
-longLabel Naive_Tregs_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_Tregs_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -462,7 +462,7 @@ track Naive_Tregs_T2_PSI
 type bigBed 6+
 bigDataUrl Naive_Tregs_T2_splice_junctions_PSI_gradient.bb
 shortLabel Naive_Tregs_T2_PSI
-longLabel Naive_Tregs_T2_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_Tregs_T2_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -472,7 +472,7 @@ track Naive_Tregs_PSI
 type bigBed 6+
 bigDataUrl Naive_Tregs_splice_junctions_PSI_gradient.bb
 shortLabel Naive_Tregs_PSI
-longLabel Naive_Tregs_splice_junctions_PSI_gradient.int5.bed
+longLabel Naive_Tregs_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -482,7 +482,7 @@ track Plasma_cells_PSI
 type bigBed 6+
 bigDataUrl Plasma_cells_splice_junctions_PSI_gradient.bb
 shortLabel Plasma_cells_PSI
-longLabel Plasma_cells_splice_junctions_PSI_gradient.int5.bed
+longLabel Plasma_cells_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -492,7 +492,7 @@ track Plasmablasts_PSI
 type bigBed 6+
 bigDataUrl Plasmablasts_splice_junctions_PSI_gradient.bb
 shortLabel Plasmablasts_PSI
-longLabel Plasmablasts_splice_junctions_PSI_gradient.int5.bed
+longLabel Plasmablasts_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -502,7 +502,7 @@ track Preplasmablasts_PSI
 type bigBed 6+
 bigDataUrl Preplasmablasts_splice_junctions_PSI_gradient.bb
 shortLabel Preplasmablasts_PSI
-longLabel Preplasmablasts_splice_junctions_PSI_gradient.int5.bed
+longLabel Preplasmablasts_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -512,7 +512,7 @@ track Regulatory_T_T1_PSI
 type bigBed 6+
 bigDataUrl Regulatory_T_T1_splice_junctions_PSI_gradient.bb
 shortLabel Regulatory_T_T1_PSI
-longLabel Regulatory_T_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Regulatory_T_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -522,7 +522,7 @@ track Regulatory_T_PSI
 type bigBed 6+
 bigDataUrl Regulatory_T_splice_junctions_PSI_gradient.bb
 shortLabel Regulatory_T_PSI
-longLabel Regulatory_T_splice_junctions_PSI_gradient.int5.bed
+longLabel Regulatory_T_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -532,7 +532,7 @@ track Th17_precursors_T1_PSI
 type bigBed 6+
 bigDataUrl Th17_precursors_T1_splice_junctions_PSI_gradient.bb
 shortLabel Th17_precursors_T1_PSI
-longLabel Th17_precursors_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Th17_precursors_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -542,7 +542,7 @@ track Th17_precursors_PSI
 type bigBed 6+
 bigDataUrl Th17_precursors_splice_junctions_PSI_gradient.bb
 shortLabel Th17_precursors_PSI
-longLabel Th17_precursors_splice_junctions_PSI_gradient.int5.bed
+longLabel Th17_precursors_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -552,7 +552,7 @@ track Th1_precursors_T1_PSI
 type bigBed 6+
 bigDataUrl Th1_precursors_T1_splice_junctions_PSI_gradient.bb
 shortLabel Th1_precursors_T1_PSI
-longLabel Th1_precursors_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Th1_precursors_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -562,7 +562,7 @@ track Th1_precursors_PSI
 type bigBed 6+
 bigDataUrl Th1_precursors_splice_junctions_PSI_gradient.bb
 shortLabel Th1_precursors_PSI
-longLabel Th1_precursors_splice_junctions_PSI_gradient.int5.bed
+longLabel Th1_precursors_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -572,7 +572,7 @@ track Th2_precursors_T1_PSI
 type bigBed 6+
 bigDataUrl Th2_precursors_T1_splice_junctions_PSI_gradient.bb
 shortLabel Th2_precursors_T1_PSI
-longLabel Th2_precursors_T1_splice_junctions_PSI_gradient.int5.bed
+longLabel Th2_precursors_T1_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -582,7 +582,7 @@ track Th2_precursors_PSI
 type bigBed 6+
 bigDataUrl Th2_precursors_splice_junctions_PSI_gradient.bb
 shortLabel Th2_precursors_PSI
-longLabel Th2_precursors_splice_junctions_PSI_gradient.int5.bed
+longLabel Th2_precursors_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
@@ -592,7 +592,7 @@ track pDCs_PSI
 type bigBed 6+
 bigDataUrl pDCs_splice_junctions_PSI_gradient.bb
 shortLabel pDCs_PSI
-longLabel pDCs_splice_junctions_PSI_gradient.int5.bed
+longLabel pDCs_splice_junctions_PSI_gradient
 visibility full
 color <R,G,B>
 autoScale on
